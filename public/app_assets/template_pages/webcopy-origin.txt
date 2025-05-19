@@ -1,0 +1,528 @@
+Uri: https://demo.adminkit.io/
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\index.htm
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/calendar
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\calendar.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/calendar.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\calendar-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-apexcharts
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\charts-apexcharts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-apexcharts.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\charts-apexcharts-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-chartjs
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\charts-chartjs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-chartjs.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\charts-chartjs-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/css/light.css
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\css\light.css
+Content Type: text/css
+
+Uri: https://demo.adminkit.io/dashboard-crypto
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\dashboard-crypto.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/dashboard-crypto.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\dashboard-crypto-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/dashboard-ecommerce
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\dashboard-ecommerce.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/dashboard-ecommerce.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\dashboard-ecommerce-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.ttf
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.woff2
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.ttf
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.woff2
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.ttf
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.woff2
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/forms-advanced-inputs
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-advanced-inputs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-advanced-inputs.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-advanced-inputs-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-basic-inputs
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-basic-inputs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-basic-inputs.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-basic-inputs-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-editors
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-editors.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-editors.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-editors-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-input-groups
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-input-groups.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-input-groups.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-input-groups-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-layouts
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-layouts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-layouts.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-layouts-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-validation
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-validation.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-validation.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\forms-validation-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-feather
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\icons-feather.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-feather.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\icons-feather-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-font-awesome
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\icons-font-awesome.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-font-awesome.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\icons-font-awesome-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-2.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\avatars\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-3.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\avatars\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-4.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\avatars\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-5.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\avatars\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\avatars\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/flags/de.png
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\flags\de.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/es.png
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\flags\es.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/ru.png
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\flags\ru.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/us.png
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\flags\us.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/icons/brand-1.svg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\icons\brand-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-2.svg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\icons\brand-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-3.svg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\icons\brand-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-4.svg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\icons\brand-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-5.svg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\icons\brand-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/icon-48x48.png
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\icons\icon-48x48.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-1.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\photos\unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-2.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\photos\unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-3.jpg
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\img\photos\unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/js/app.js
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\js\app.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/js/datatables.js
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\js\datatables.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/js/fullcalendar.js
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\js\fullcalendar.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/js/settings.js
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\js\settings.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/maps-google
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\maps-google.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-google.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\maps-google-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-vector
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\maps-vector.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-vector.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\maps-vector-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/notifications
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\notifications.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/notifications.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\notifications-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-404
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-404.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-404.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-404-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-500
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-500.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-500.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-500-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-blank
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-blank.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-blank.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-blank-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-chat
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-chat.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-chat.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-chat-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-clients
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-clients.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-clients.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-clients-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-invoice
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-invoice.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-invoice.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-invoice-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-orders
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-orders.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-orders.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-orders-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-pricing
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-pricing.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-pricing.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-pricing-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-profile
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-profile.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-profile.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-profile-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-projects
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-projects.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-projects.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-projects-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-reset-password
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-reset-password.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-reset-password.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-reset-password-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-settings
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-settings.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-settings.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-settings-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-in
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-sign-in.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-in.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-sign-in-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-up
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-sign-up.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-up.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-sign-up-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-tasks
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-tasks.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-tasks.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\pages-tasks-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-bootstrap
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-bootstrap.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-bootstrap.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-bootstrap-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-ajax
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-ajax.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-ajax.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-ajax-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-buttons
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-buttons.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-buttons.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-buttons-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-column-search
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-column-search.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-column-search.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-column-search-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-fixed-header
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-fixed-header.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-fixed-header.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-fixed-header-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-multi
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-multi.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-multi.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-multi-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-responsive
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-responsive.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-responsive.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\tables-datatables-responsive-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-alerts
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-alerts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-alerts.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-alerts-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-buttons
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-buttons.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-buttons.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-buttons-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-cards
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-cards.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-cards.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-cards-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-general
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-general.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-general.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-general-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-grid
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-grid.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-grid.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-grid-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-modals
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-modals.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-modals.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-modals-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-offcanvas
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-offcanvas.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-offcanvas.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-offcanvas-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-placeholders
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-placeholders.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-placeholders.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-placeholders-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-tabs
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-tabs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-tabs.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-tabs-1.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-typography
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-typography.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-typography.html
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\ui-typography-1.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDTU0Z-xRPDiH08db7P7QASdJ5pASq2CH4&callback=initMaps
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-120946860-10
+File Name: D:\Templates\Downloads\admin\demo.adminkit.io\gtag\js
+Content Type: application/javascript
+
