@@ -45,6 +45,11 @@ Permission for T4Life
 </span>
 </label>
 </div>
+<hr>
+<div class="col-xxl-12 col-xl-12 col-md-12 col-sm-12 colo-xs-12">
+<label for="Username" class="mb-1">Phone Number</label>
+<input class="form-control form-control-lg mb-3" type="text" name="staff_phone_number" placeholder="Enter phone number">
+</div>
 </div>
 <div class="modal-footer">
 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>

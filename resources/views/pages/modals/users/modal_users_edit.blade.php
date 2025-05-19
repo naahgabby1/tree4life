@@ -12,6 +12,15 @@
 <div class="modal-body m-3">
 <div class="row">
 <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6 colo-xs-12">
+<a class="pe-3" href="#">
+<img src="{{asset('app_assets/assets/t4l/user.png')}}" width="150" height="150" class="rounded-circle me-2" alt="Christina Mason">
+</a>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6 colo-xs-12">
 <label for="Username" class="mb-1">Enter Staff ID Here</label>
 <input class="form-control form-control-lg mb-3" type="text" name="username_edits" placeholder="Enter Staff ID"
 value="{{ $user->username }}">
@@ -31,8 +40,10 @@ value="{{ $user->username }}">
 </select>
 </div>
 </div>
+<hr>
 <small>Select single or multiple permission for this user</small>
-<div>
+<div class="row">
+<div class="col-xxl-12 col-xl-12 col-md-12 col-sm-12 colo-xs-12">
 <label class="form-check form-check-inline">
 <input class="form-check-input lg" type="checkbox" value="1" name="chex_permission_yfc_edits"
 {{ $user->yfc_permission === 1 ? 'checked' : '' }}>
@@ -48,6 +59,23 @@ Permission for T4Life
 </span>
 </label>
 </div>
+</div>
+<hr>
+<div class="row">
+<div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6 colo-xs-6">
+<label for="Username" class="mb-1">Change Status</label>
+<select class="form-control form-control-lg choices-single" name="status_edits">
+<option value="{{ $user->status }}">{{ $user->status == 0 ? 'Archived' : 'Active'}}</option>
+<option value="1">Active</option>
+<option value="0">Archive</option>
+</select>
+</div>
+<div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6 colo-xs-6">
+<label for="Username" class="mb-1">Phone Number</label>
+<input class="form-control form-control-lg mb-3" value="{{ $user->phone_number }}" type="text" name="staff_phone_number_edits" placeholder="Enter phone number">
+</div>
+</div>
+
 </div>
 <div class="modal-footer">
 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>

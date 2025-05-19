@@ -14,5 +14,6 @@
 <style>
 </style>
 <script async src="{{asset('app_assets/assets/gtag/js?id=UA-120946860-10')}}"></script>
+<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body data-theme="default" data-layout="fluid" data-sidebar-position="left" data-sidebar-layout="default">

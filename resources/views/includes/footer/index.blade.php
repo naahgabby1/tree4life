@@ -1,5 +1,6 @@
 <script src="{{asset('app_assets/assets/js/app.js')}}"></script>
 <script src="{{asset('app_assets/assets/js/datatables.js')}}"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 @include('includes.footer.script.datatable')
 
 

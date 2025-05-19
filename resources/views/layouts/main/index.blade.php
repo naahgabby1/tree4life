@@ -13,3 +13,5 @@
 </div>
 </div>
 @include('includes.footer.index')
+<script src="{{ asset('js/app.js') }}"></script>
+@stack('customed_js')
