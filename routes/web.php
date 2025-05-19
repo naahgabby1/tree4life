@@ -22,7 +22,7 @@ Route::get('dashboard', [DashboardController::class, 'index'])->name('dashboard'
 // Users
 Route::get('system-users', [SystemuserController::class, 'index'])->name('user.list.page');
 Route::post('save-user', [SystemuserController::class, 'save_user'])->name('save.user.submit');
-Route::put('update-user', [SystemuserController::class, 'update_user'])->name('update.user.submit');
+Route::put('update-user/{id}', [SystemuserController::class, 'update_user'])->name('update.user.submit');
 Route::put('reset-user', [SystemuserController::class, 'reset_user'])->name('reset.user.submit');
 Route::delete('delete-user', [SystemuserController::class, 'destroy_user'])->name('delete.user.submit');
 Route::get('user-profile', [SystemuserController::class, 'user_profile'])->name('system.user.profile');

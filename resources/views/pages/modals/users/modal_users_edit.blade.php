@@ -1,9 +1,9 @@
 <div class="modal fade" id="modalEditUser{{$user->id}}" tabindex="-1" role="dialog" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
-<form action="{{ route('save.user.submit')}}" method="post">
+<form action="{{ route('update.user.submit', $user->id)}}" method="post">
 @csrf
-@method('POST')
+@method('PUT')
 <div class="modal-header">
 <h4 class="modal-title">Register System Users</h4><br />
 {{-- <h6 class="modal-title">Enter Staff ID and a user role to </h6> --}}
@@ -13,12 +13,12 @@
 <div class="row">
 <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6 colo-xs-12">
 <label for="Username" class="mb-1">Enter Staff ID Here</label>
-<input class="form-control form-control-lg mb-3" type="text" name="username_edit" placeholder="Enter Staff ID"
+<input class="form-control form-control-lg mb-3" type="text" name="username_edits" placeholder="Enter Staff ID"
 value="{{ $user->username }}">
 </div>
 <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6 colo-xs-12">
 <label for="Username" class="mb-1">Enter Staff ID Here</label>
-<select class="form-control form-control-lg choices-single" name="role_id_edit">
+<select class="form-control form-control-lg choices-single" name="role_id_edits">
 
 
 <option value="{{ $user->role_id }}">{{ $user->user_role }}</option>
@@ -31,18 +31,18 @@ value="{{ $user->username }}">
 </select>
 </div>
 </div>
-<small>Select single or multiple permission for this iser</small>
+<small>Select single or multiple permission for this user</small>
 <div>
 <label class="form-check form-check-inline">
-<input class="form-check-input lg" type="checkbox" value="1" name="chex_permission_yfc_edit"
-{{ $user->yfc_permission === '1' ? 'checked' : '' }}>
+<input class="form-check-input lg" type="checkbox" value="1" name="chex_permission_yfc_edits"
+{{ $user->yfc_permission === 1 ? 'checked' : '' }}>
 <span class="form-check-label">
 Permission for YFC
 </span>
 </label>
 <label class="form-check form-check-inline">
-<input class="form-check-input lg" type="checkbox" value="1" name="chex_permission_t4l_edit"
-{{ $user->forlife_permission === '1' ? 'checked' : '' }}>
+<input class="form-check-input lg" type="checkbox" value="1" name="chex_permission_t4l_edits"
+{{ $user->forlife_permission === 1 ? 'checked' : '' }}>
 <span class="form-check-label">
 Permission for T4Life
 </span>
